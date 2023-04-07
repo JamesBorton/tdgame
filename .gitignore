@@ -1,0 +1,50 @@
+# .gitignore for Unity 2021.3.21f1
+
+# Unity files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Visual Studio files
+ExportedObj/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# MonoDevelop files
+/*.pidb.meta
+/*.suo.meta
+/*.userprefs.meta
+/*.csproj.meta
+/*.unityproj.meta
+/*.sln.meta
+
+# macOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+/_Thumb*/
+
+# Backup files
+*.bak
+
+# Crashlytics generated file
+crashlytics-build.properties
